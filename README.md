@@ -1,6 +1,8 @@
 # Responsive Web Design Projects - Build a Tribute Page
 
-Build a app (instructions specify CodePen.io, I am using VS Code) that is similar to [this example](https://codepen.io/freeCodeCamp/full/zNqgVx).
+* Build an app (instructions specify CodePen.io, I am using VS Code) that is similar to [this example](https://codepen.io/freeCodeCamp/full/zNqgVx).
+
+* I chose to create a tribute page for my kids, about the pets we have had.
 
 ## Must meet the following User Stories:
 
