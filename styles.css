@@ -1,11 +1,13 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
+  background-color: rgb(187, 185, 184)
 }
 
 h1 {
   font-family: 'PT Sans', sans-serif;
   font-size: 60px;
+  text-align: center;
 }
 ul {
   list-style-type: disc;
@@ -14,6 +16,3 @@ ul {
   text-indent: -1em;
 }
 /* The img should be centered in parent, and resize relative to width of parent, w/o exceeding original size */
-.img-div {
-  justify-self: center;
-}
