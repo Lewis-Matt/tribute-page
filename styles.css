@@ -43,9 +43,10 @@ li {
   line-height: 20px;
 }
 /* The img should be centered in parent, and resize relative to width of parent, w/o exceeding original size */
-#img {
-  display: flex;
+#image {
+  display: block;
   width: 50%;
+  max-width: 100%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
